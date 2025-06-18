@@ -1,0 +1,119 @@
+Fecha;Producto;Precio;Unidades Vendidas;Vendedor
+1/12/2023;Arroz Diana X 1 Libra;2200;13;Ramiro
+1/12/2023;Aceite Riquisimo X 1 Litro;7900;13;Carlos
+1/12/2023;Huevos X Docena;9900;2;Carlos
+1/12/2023;Pan Tajado Bimbo 600g;7190;20;Carlos
+2/12/2023;Arroz Diana X 1 Libra;2200;19;Ramiro
+2/12/2023;Aceite Riquisimo X 1 Litro;7900;8;Ramiro
+2/12/2023;Huevos X Docena;9900;3;Alejandra
+2/12/2023;Pan Tajado Bimbo 600g;7190;6;Diana
+3/12/2023;Arroz Diana X 1 Libra;2200;7;Diana
+3/12/2023;Aceite Riquisimo X 1 Litro;7900;7;Carlos
+3/12/2023;Huevos X Docena;9900;14;Alejandra
+3/12/2023;Pan Tajado Bimbo 600g;7190;12;Alejandra
+4/12/2023;Arroz Diana X 1 Libra;2200;17;Ramiro
+4/12/2023;Aceite Riquisimo X 1 Litro;7900;18;Ramiro
+4/12/2023;Huevos X Docena;9900;11;Alejandra
+4/12/2023;Pan Tajado Bimbo 600g;7190;10;Alejandra
+5/12/2023;Arroz Diana X 1 Libra;2200;18;Diana
+5/12/2023;Aceite Riquisimo X 1 Litro;7900;3;Ramiro
+5/12/2023;Huevos X Docena;9900;3;Ramiro
+5/12/2023;Pan Tajado Bimbo 600g;7190;19;Ramiro
+6/12/2023;Arroz Diana X 1 Libra;2200;9;Diana
+6/12/2023;Aceite Riquisimo X 1 Litro;7900;15;Diana
+6/12/2023;Huevos X Docena;9900;2;Ramiro
+6/12/2023;Pan Tajado Bimbo 600g;7190;15;Alejandra
+7/12/2023;Arroz Diana X 1 Libra;2200;13;Alejandra
+7/12/2023;Aceite Riquisimo X 1 Litro;7900;1;Diana
+7/12/2023;Huevos X Docena;9900;20;Diana
+7/12/2023;Pan Tajado Bimbo 600g;7190;10;Ramiro
+8/12/2023;Arroz Diana X 1 Libra;2200;8;Ramiro
+8/12/2023;Aceite Riquisimo X 1 Litro;7900;7;Ramiro
+8/12/2023;Huevos X Docena;9900;10;Diana
+8/12/2023;Pan Tajado Bimbo 600g;7190;1;Alejandra
+9/12/2023;Aceite Riquisimo X 1 Litro;7900;2;Alejandra
+9/12/2023;Huevos X Docena;9900;17;Diana
+9/12/2023;Pan Tajado Bimbo 600g;7190;9;Alejandra
+10/12/2023;Arroz Diana X 1 Libra;2200;6;Alejandra
+10/12/2023;Aceite Riquisimo X 1 Litro;7900;20;Ramiro
+10/12/2023;Huevos X Docena;9900;18;Diana
+10/12/2023;Pan Tajado Bimbo 600g;7190;10;Carlos
+11/12/2023;Arroz Diana X 1 Libra;2200;20;Alejandra
+11/12/2023;Aceite Riquisimo X 1 Litro;7900;19;Carlos
+11/12/2023;Huevos X Docena;9900;11;Diana
+11/12/2023;Pan Tajado Bimbo 600g;7190;7;Ramiro
+12/12/2023;Arroz Diana X 1 Libra;2200;6;Diana
+12/12/2023;Aceite Riquisimo X 1 Litro;7900;15;Carlos
+12/12/2023;Huevos X Docena;9900;2;Carlos
+12/12/2023;Pan Tajado Bimbo 600g;7190;2;Alejandra
+13/12/2023;Arroz Diana X 1 Libra;2200;19;Alejandra
+13/12/2023;Aceite Riquisimo X 1 Litro;7900;15;Carlos
+13/12/2023;Huevos X Docena;9900;4;Alejandra
+13/12/2023;Pan Tajado Bimbo 600g;7190;18;Alejandra
+14/12/2023;Arroz Diana X 1 Libra;2200;3;Carlos
+14/12/2023;Aceite Riquisimo X 1 Litro;7900;15;Diana
+14/12/2023;Huevos X Docena;9900;14;Alejandra
+14/12/2023;Pan Tajado Bimbo 600g;7190;12;Ramiro
+15/12/2023;Arroz Diana X 1 Libra;2200;12;Carlos
+15/12/2023;Aceite Riquisimo X 1 Litro;7900;2;Alejandra
+15/12/2023;Huevos X Docena;9900;18;Ramiro
+15/12/2023;Pan Tajado Bimbo 600g;7190;6;Diana
+16/12/2023;Arroz Diana X 1 Libra;2200;13;Diana
+16/12/2023;Aceite Riquisimo X 1 Litro;7900;5;Carlos
+16/12/2023;Huevos X Docena;9900;12;Diana
+16/12/2023;Pan Tajado Bimbo 600g;7190;13;Carlos
+17/12/2023;Arroz Diana X 1 Libra;2200;12;Diana
+17/12/2023;Aceite Riquisimo X 1 Litro;7900;17;Alejandra
+17/12/2023;Huevos X Docena;9900;12;Alejandra
+17/12/2023;Pan Tajado Bimbo 600g;7190;8;Diana
+18/12/2023;Arroz Diana X 1 Libra;2200;7;Ramiro
+18/12/2023;Aceite Riquisimo X 1 Litro;7900;17;Carlos
+18/12/2023;Huevos X Docena;9900;15;Diana
+18/12/2023;Pan Tajado Bimbo 600g;7190;9;Alejandra
+19/12/2023;Arroz Diana X 1 Libra;2200;12;Ramiro
+19/12/2023;Aceite Riquisimo X 1 Litro;7900;8;Carlos
+19/12/2023;Huevos X Docena;9900;15;Alejandra
+19/12/2023;Pan Tajado Bimbo 600g;7190;11;Carlos
+20/12/2023;Pan Tajado Bimbo 600g;7190;3;Alejandra
+21/12/2023;Arroz Diana X 1 Libra;2200;16;Carlos
+21/12/2023;Aceite Riquisimo X 1 Litro;7900;15;Alejandra
+21/12/2023;Huevos X Docena;9900;16;Ramiro
+21/12/2023;Pan Tajado Bimbo 600g;7190;14;Diana
+22/12/2023;Aceite Riquisimo X 1 Litro;7900;13;Ramiro
+22/12/2023;Huevos X Docena;9900;12;Alejandra
+22/12/2023;Pan Tajado Bimbo 600g;7190;15;Diana
+23/12/2023;Arroz Diana X 1 Libra;2200;2;Carlos
+23/12/2023;Aceite Riquisimo X 1 Litro;7900;14;Alejandra
+23/12/2023;Huevos X Docena;9900;14;Alejandra
+23/12/2023;Pan Tajado Bimbo 600g;7190;3;Ramiro
+24/12/2023;Arroz Diana X 1 Libra;2200;18;Alejandra
+24/12/2023;Aceite Riquisimo X 1 Litro;7900;1;Ramiro
+24/12/2023;Huevos X Docena;9900;18;Alejandra
+24/12/2023;Pan Tajado Bimbo 600g;7190;9;Alejandra
+25/12/2023;Arroz Diana X 1 Libra;2200;19;Ramiro
+25/12/2023;Aceite Riquisimo X 1 Litro;7900;15;Alejandra
+25/12/2023;Huevos X Docena;9900;19;Carlos
+25/12/2023;Pan Tajado Bimbo 600g;7190;3;Alejandra
+26/12/2023;Arroz Diana X 1 Libra;2200;11;Alejandra
+26/12/2023;Aceite Riquisimo X 1 Litro;7900;12;Alejandra
+26/12/2023;Pan Tajado Bimbo 600g;7190;16;Alejandra
+27/12/2023;Arroz Diana X 1 Libra;2200;13;Diana
+27/12/2023;Aceite Riquisimo X 1 Litro;7900;13;Carlos
+27/12/2023;Huevos X Docena;9900;1;Carlos
+27/12/2023;Pan Tajado Bimbo 600g;7190;1;Carlos
+28/12/2023;Arroz Diana X 1 Libra;2200;10;Ramiro
+28/12/2023;Aceite Riquisimo X 1 Litro;7900;2;Diana
+28/12/2023;Huevos X Docena;9900;16;Ramiro
+28/12/2023;Pan Tajado Bimbo 600g;7190;4;Carlos
+29/12/2023;Arroz Diana X 1 Libra;2200;4;Diana
+29/12/2023;Aceite Riquisimo X 1 Litro;7900;12;Ramiro
+29/12/2023;Huevos X Docena;9900;6;Carlos
+29/12/2023;Pan Tajado Bimbo 600g;7190;14;Diana
+30/12/2023;Arroz Diana X 1 Libra;2200;7;Carlos
+30/12/2023;Aceite Riquisimo X 1 Litro;7900;7;Diana
+30/12/2023;Huevos X Docena;9900;14;Carlos
+30/12/2023;Pan Tajado Bimbo 600g;7190;6;Diana
+31/12/2023;Arroz Diana X 1 Libra;2200;13;Diana
+31/12/2023;Aceite Riquisimo X 1 Litro;7900;17;Alejandra
+31/12/2023;Huevos X Docena;9900;5;Alejandra
+31/12/2023;Pan Tajado Bimbo 600g;7190;19;Diana
