@@ -1,0 +1,43 @@
+product_id,name,category,price,stock_quantity,rating
+101,Laptop Pro X15,Laptops,1250.50,18,4.5
+102,Ultrabook Air M3,Laptops,1450.00,25,4.8
+103,Gaming Beast G9,Laptops,2100.00,8,4.6
+104,Workstation W-500,Laptops,2800.75,5,4.4
+105,Laptop Económico E1,Laptops,599.99,40,4.1
+106,Smartphone G-Max,Smartphones,899.99,35,4.7
+107,Phone Ultra Pro 16,Smartphones,1299.00,50,4.9
+108,Pixel Fold Z2,Smartphones,1799.00,12,4.6
+109,Mid-Range Phone M5,Smartphones,349.50,120,4.2
+110,Auriculares con Cancelación Z-Pro,Accesorios,199.00,130,4.8
+111,Teclado Mecánico K-RGB,Accesorios,115.50,75,4.6
+112,Ratón Inalámbrico Ergo,Accesorios,75.00,200,4.5
+113,Webcam Pro 4K,Accesorios,159.99,90,4.7
+114,Funda para Laptop 16,Accesorios,34.95,250,4.7
+115,Cargador GaN 100W,Accesorios,65.00,180,4.8
+116,Hub USB-C 8-en-1,Accesorios,55.00,160,4.5
+"117,Monitor UltraWide 34"",Monitores,750.00,15,4.8"
+118,Monitor Gaming 240Hz,Monitores,420.00,40,4.7
+119,Monitor Curvo 4K,Monitores,680.50,28,4.6
+120,Pantalla Portátil Táctil,Monitores,249.99,55,4.4
+121,Tablet S11,Tablets,480.00,30,4.3
+122,e-Reader Oasis,Tablets,249.00,80,4.9
+123,Tablet Pro con Lápiz Óptico,Tablets,999.00,20,4.7
+124,Tablet para Niños K8,Tablets,129.99,100,4.0
+125,Consola de Videojuegos PSZ,Gaming,499.99,40,4.9
+126,Mando Inalámbrico Elite V2,Gaming,149.50,65,4.6
+127,Silla Gamer Ergo-Pro,Gaming,350.00,30,4.2
+128,Volante de Carreras Force G30,Gaming,349.99,22,4.7
+129,Cámara Mirrorless Alpha 8,Cámaras,2499.00,10,4.9
+130,Cámara de Acción X-Treme 4,Cámaras,449.00,60,4.7
+131,Lente Zoom 24-70mm f/2.8,Cámaras,1899.00,15,4.8
+132,Trípode Profesional de Carbono,Cámaras,180.00,50,4.5
+133,SSD NVMe 2TB Gen4,Almacenamiento,180.00,95,4.9
+134,Disco Duro Externo 8TB,Almacenamiento,150.50,120,4.6
+135,Tarjeta SDXC 512GB U3,Almacenamiento,99.99,180,4.8
+136,Memoria USB-C 256GB,Almacenamiento,29.95,450,4.3
+137,Tarjeta Gráfica RTX 4080,Componentes PC,1199.00,12,4.8
+138,Procesador Ryzen 9,Componentes PC,550.00,38,4.9
+139,Placa Base X670E,Componentes PC,350.00,55,4.6
+140,Memoria RAM 64GB DDR5,Componentes PC,220.00,90,4.9
+141,Fuente de Poder 1000W Platinum,Componentes PC,199.00,60,4.7
+142,Gabinete ATX Crystal,Componentes PC,149.99,70,4.5
