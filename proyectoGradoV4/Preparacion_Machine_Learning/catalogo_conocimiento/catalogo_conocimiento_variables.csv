@@ -16,7 +16,7 @@ DEMANDA QUIMICA DE OXIGENO (DQO),Calidad del Agua,Muy Alta,3,Indicador de materi
 FOSFORO TOTAL,Calidad del Agua,Alta,2,Nutriente asociado a procesos de eutrofización.
 NITROGENO TOTAL,Calidad del Agua,Alta,2,Nutriente fundamental para evaluar contaminación difusa y eutrofización.
 OXIGENO DISUELTO (OD),Calidad del Agua,Muy Alta,3,Indicador esencial del equilibrio ecológico de los cuerpos de agua.
-"SOLIDOS SUSPENDIDOS TOTALES,Calidad del Agua,Alta,2,""Relacionados con erosión, sedimentación y transporte de contaminantes."""
+SOLIDOS SUSPENDIDOS TOTALES,Calidad del Agua,Alta,2,Relacionados con erosión, sedimentación y transporte de contaminantes.
 TEMPERATURA,Calidad del Agua,Alta,2,Controla procesos fisicoquímicos y biológicos en los cuerpos de agua.
 TURBIDEZ,Calidad del Agua,Alta,2,Indicador de partículas suspendidas y calidad física del agua.
 pH,Calidad del Agua,Muy Alta,3,Variable fundamental para caracterizar el equilibrio químico del agua.
