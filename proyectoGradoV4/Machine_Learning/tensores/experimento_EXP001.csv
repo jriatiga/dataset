@@ -1,0 +1,2 @@
+﻿Experimento,Variable_Objetivo,Modelo,Ventana,Horizonte,Epochs_Ejecutadas,Loss_Test,MAE_Test,Fecha
+EXP_001,irca,LSTM,12,1,11,0.1686,0.3109,2026-07-20 19:08:56.290955
