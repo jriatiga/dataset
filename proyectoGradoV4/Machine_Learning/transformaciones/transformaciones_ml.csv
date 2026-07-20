@@ -1,0 +1,10 @@
+﻿Variable,Transformacion
+Precipitacion_mm,StandardScaler
+ONI,StandardScaler
+Radiacion_Solar,StandardScaler
+Humedad_Relativa,RobustScaler
+Temp_Min_C,StandardScaler
+Mes,StandardScaler
+Velocidad_Viento,StandardScaler
+irca,Sin transformación
+VolumenUtilDiarioMasa,Sin transformación
