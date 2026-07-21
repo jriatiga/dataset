@@ -1,0 +1,2 @@
+﻿Experimento,Fecha,Dominio,Variable_Objetivo,Modelo,Metodo_Transformacion,Ventana,Variables_Predictoras,Muestras,Train,Validacion,Prueba,Neuronas,Dropout,Learning_Rate,Batch_Size,Epocas_Config,Epocas_Ejecutadas,Loss_Train,Loss_Validacion,Loss_Prueba,Accuracy_Train,Accuracy_Validacion,Accuracy_Prueba,Tiempo_Segundos
+exp01,2026-07-21 14:43:48.611764,Gestión Hídrica,irca,LSTM,Escalado MinMax,12,8,516,361,77,78,32,0.2,0.001,32,100,11,0.18388250470161438,1.476547360420227,1.3185228109359741,0.9362881183624268,0.8441558480262756,0.807692289352417,5.925639390945435
